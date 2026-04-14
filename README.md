@@ -1,0 +1,1 @@
+# new-ssp-ctp-license-manager
